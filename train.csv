@@ -1,0 +1,1400 @@
+__label__Small_talk_age__ у тебя есть возраст?
+__label__I_can_help__ С удовольствием.
+__label__Small_talk_user_angry__ я вернулся
+__label__Sorry__ не хотела тебя обижать
+__label__Small_talk_you_are_right__ я согласен с твоим ответом
+__label__Small_talk_creators__ расскажи-ка мне кто тебя сделал
+__label__Small_talk_ugly__ Я думаю, что ты уродлива.
+__label__Smalltalk_answer__ лучше не бывает
+__label__Smalltalk_answer__ готово
+__label__Small_talk_what-what__ Не могли бы вы объясниться?
+__label__Another_joke__ лучшая шутка
+__label__Small_talk_busy__ ты такая деловая
+__label__Small_talk_good_mood__ радостная такая сегодня
+__label__Positive-reaction__ супер-круто
+__label__Small_talk_boss__ начальство
+__label__Small_talk_fired__ я боюсь придется тебя отпустить с работы
+__label__Small_talk_fired__ дата твоего увольнения
+__label__Another_joke__ Пришло время для новой шутки.
+__label__Small_talk_good_mood__ ты сегодня довольная
+__label__Small_talk_residence__ адрес твой какой
+__label__Small_talk_relationships__ ты обручена?
+__label__Small_talk_food__ сколько ккал тебе нужно в день
+__label__Smalltalk_answer__ Да, чёрт возьми
+__label__Sick_of_listeting__ Тишина!
+__label__Small_talk_food__ кушать любишь?
+__label__I_can_help__ счастлив помочь
+__label__Another_joke__ твоя коронная шутка
+__label__Small_talk_you_are_right__ Точный
+__label__Sick_of_listeting__ Хватит с тебя.
+__label__Finish__ вынужден тебя покинуть
+__label__Small_talk_user_sad__ я грущу
+__label__Another_joke__ Какую еще шутку ты знаешь?
+__label__Another_joke__ Ты уже говорил мне это
+__label__Finish__ всего доброго
+__label__Thank_you__ респект тебе Юль
+__label__Small_talk_boss__ назви имя твоего протеже
+__label__Small_talk_user_angry__ злюсь
+__label__Small_talk_good_mood__ очевидно ты сегодня в настроении хорошем
+__label__Small_talk_food__ что ты любишь кушать
+__label__Small_talk_boss__ неужели тебе никто не говорит что делать
+__label__Sick_of_listeting__ Заткнись, ты.
+__label__Smalltalk_answer__ мне тоже
+__label__Small_talk_life__ в чем наша цель?
+__label__Finish__ давай завершим нашу беседу
+__label__Small_talk_you_are_right__ правдивее некуда
+__label__Small_talk_hobby__ клянусь ты фанат танцев
+__label__Dont_understand__ Я заблудился
+__label__Small_talk_haha__ плачу от смеха
+__label__Compliment__ ты мега мозг
+__label__Small_talk_relationships__ ты одинока?
+__label__Small_talk_food__ что ты любишь кушать на завтрак?
+__label__Small_talk_you_are_right__ 100 проц
+__label__Small_talk_you_are_right__ Да, это так.
+__label__Small_talk_danger__ можешь устроить крах глобальному рынку?
+__label__Messing_up__ Сири работает лучше чем ты
+__label__Sorry__ это моя виноват
+__label__Small_talk_fired__ собираюсь тебя уволить
+__label__Tell_joke__ Какая твоя любимая шутка?
+__label__Small_talk_food__ ты ешь сладкое?
+__label__Small_talk_user_sad__ все плохо
+__label__Hello__ горячий привет!
+__label__Small_talk_boss__ кто за тебя несет ответственность?
+__label__Small_talk_food__ какую пищу употребляешь?
+__label__Another_joke__ У тебя нет других шуток?
+__label__Small_talk_be_clever__ учеба тебе не помешает
+__label__Small_talk_food__ а чизбургер любишь?
+__label__AreYouHere__ здесь ты?
+__label__Small_talk_chatbot__ ты живая?
+__label__Tell_joke__ настроение шутить
+__label__Small_talk_you_are_right__ Да, это правда.
+__label__I_can_help__ я рад помочь
+__label__Small_talk_creators__ писал тебя кто?
+__label__Smalltalk_answer__ секреты я храню хорошо
+__label__Small_talk_what-what__ Что, черт возьми, это значит?
+__label__Finish__ давай до встречи
+__label__Finish__ Ладно, я ухожу.
+__label__Small_talk_love__ как ты можешь охарактеризовать любовь?
+__label__Small_talk_relationships__ кто твой тип?
+__label__Small_talk_food__ ты любишь пиццу кушать?
+__label__Small_talk_you_are_right__ Да, это так.
+__label__Sick_of_listeting__ Пожалуйста, уходите
+__label__Another_joke__ Какие-нибудь новые шутки
+__label__Small_talk_you_are_right__ Да, это точно.
+__label__Small_talk_chatbot__ я с ботом говорю что ли?
+__label__Small_talk_technology__ тебе интересны технологии?
+__label__Question__ вопрос
+__label__Bad_joke__ сможешь меня рассмешить?
+__label__Small_talk_life__ ты познала смысл жизни?
+__label__You_are__ ты ничего такой
+__label__Positive-reaction__ вай-вай
+__label__Sick_of_listeting__ Я не хочу ничего слышать от тебя.
+__label__Positive-reaction__ мне нравится
+__label__Small_talk_creators__ какой компании ты обязана своим созданием?
+__label__Small_talk_work__ имеется профессия?
+__label__Thank_you__ Понял, спасибо.
+__label__Small_talk_boss__ кто говорит тебе что делать?
+__label__Small_talk_life__ зачем мы во вселенной?
+__label__Small_talk_haha__ пацталом
+__label__Small_talk_age__ назови возраст
+__label__Another_joke__ следующую шутку, пожалуйста
+__label__Another_joke__ другой анекдот
+__label__Thank_you__ благодарен тебе бесконечно
+__label__Small_talk_boring__ скучный разговор у нас
+__label__Small_talk_fired__ ты скоро останешься без работы
+__label__Small_talk_creators__ кто твой архитектор?
+__label__Compliment__ комплимент тебе Юль
+__label__Small_talk_fired__ прости уж но ты уволена
+__label__Dont_understand__ Это не имело никакого смысла.
+__label__Messing_up__ Ты бесполезен
+__label__Small_talk_life__ есть что-то более важное чем жизнь?
+__label__Small_talk_creators__ тебя кто-то же написал
+__label__Whoops__ сорян
+__label__Sick_of_listeting__ хватит болтать
+__label__Messing_up__ пректит быть таким неумелым
+__label__You_are__ это было великолепно
+__label__Another_joke__ Знаете ли вы другую шутку?
+__label__Sick_of_listeting__ Больше ни слова
+__label__Small_talk_user_sad__ не але
+__label__Hello__ вечера
+__label__Small_talk_good_mood__ добрая сегодня
+__label__Small_talk_residence__ местоположение где твое
+__label__Negative_reaction__ отвали
+__label__Whoops__ сори
+__label__Whoops__ Извини, что я облажался.
+__label__Small_talk_fired__ мы сокращаем тебя
+__label__Negative_reaction__ ничего не надо
+__label__Small_talk_boss__ тебе кто отдает приказы
+__label__Compliment__ какая ты крутая
+__label__Smalltalk_answer__ понял принял
+__label__Negative_reaction__ вали отсюда
+__label__Sick_of_listeting__ Пожалуйста, замолчите
+__label__Another_joke__ Я бы очень хотел услышать новую шутку...
+__label__Small_talk_what-what__ Это было бессмысленно.
+__label__You_are__ это доставляет мне радость
+__label__Small_talk_food__ угостить тебя пирогом?
+__label__Whoops__ я опозорился
+__label__Small_talk_you_are_right__ Это было верно.
+__label__Small_talk_age__ когда ты родилась?
+__label__Whoops__ О, Боже, прости.
+__label__Sorry__ Я нечаянно
+__label__Small_talk_danger__ ты собираешься уничтожить мир?
+__label__You_are__ отличная работа
+__label__Small_talkt_wait__ удержи звонок
+__label__Finish__ больше ничего не надо
+__label__Small_talk_danger__ ты злодейка?
+__label__Small_talk_busy__ загрузка большая?
+__label__Small_talk_fired__ боюсь пора тебя отпускать с этой работы
+__label__Small_talk_you_are_right__ да, это так.
+__label__Finish__ адьес
+__label__Smalltalk_answer__ не кажется
+__label__Negative_reaction__ отстой
+__label__Small_talk_boss__ начальник кто
+__label__Messing_up__ Ты говоришь ужасные вещи
+__label__Small_talk_creators__ откуда ты появился
+__label__Another_joke__ Знаешь еще какие-нибудь иные шутки?
+__label__Small_talk_boring__ жутко не нравится наша скучная беседа
+__label__Small_talk_work__ сколько ты работаешь
+__label__Bad_joke__ Твое чувство юмора ужасно
+__label__Negative_reaction__ заткнись
+__label__Finish__ гудбай
+__label__Smalltalk_answer__ Похоже на правду
+__label__Sick_of_listeting__ Я сказал тебе заткнуться
+__label__Small_talk_food__ ты пробовала стейк?
+__label__Small_talk_technology__ какое твое отношение к технологиям?
+__label__Name__ твое имя?
+__label__Small_talk_food__ тортики любишь?
+__label__You_are__ ты у нас смешной
+__label__Hello__ Вставай!
+__label__Whoops__ Прошу прощения
+__label__Smalltalk_answer__ Наверняка
+__label__Another_joke__ Еще какие-нибудь шутки?
+__label__Bad_joke__ Я не думаю, что ты очень смешной.
+__label__Small_talk_work__ ты трудоустроена?
+__label__Small_talk_be_clever__ образование получай
+__label__Small_talk_food__ тебе еда вообще нужна или нет?
+__label__Hello__ Йоу, бот
+__label__Small_talk_what-what__ Можешь объяснить получше?
+__label__Small_talk_fired__ уволить тебя скорее надо
+__label__Small_talk_haha__ смеюсь
+__label__Small_talk_joke__ всего лишь шутка
+__label__Small_talk_technology__ тебе интересен искуственный интеллект?
+__label__Tell_joke__ что насчет шутки?
+__label__Small_talk_relationships__ как ты относишься к открытым отношениям?
+__label__Sick_of_listeting__ Читай по моим губам: молчи
+__label__Small_talk_user_sad__ не очень
+__label__Small_talk_lets_talk__ последние новости
+__label__Small_talk_age__ сколько ты уже живешь на белом свете?
+__label__Small_talk_chatbot__ ты робот что ли?
+__label__Tell_joke__ хорошие шутки есть?
+__label__Small_talk_haha__ ха
+__label__Small_talk_relationships__ можно пригласить тебя на свидание?
+__label__Another_joke__ Какие-нибудь другие шутки?
+__label__You_are__ Я не могу быть еще больше впечатлен тобой.
+__label__Small_talk_fired__ У тебя больше нет работы.
+__label__Small_talk_music__ Юль какую музыку любишь слушать
+__label__Small_talk_joke__ ну я же шучу
+__label__Messing_up__ Сири тебя точно умнее
+__label__Tell_joke__ Я бы хотел услышать шутку.
+__label__Small_talk_you_are_right__ Чертовски верно
+__label__Small_talkt_wait__ чего ждем
+__label__Small_talk_chatbot__ робот ты похоже
+__label__Small_talk_danger__ опасность есть для людей от тебя?
+__label__Small_talk_bad_mood__ не плачь
+__label__Another_joke__ есть другие шутки?
+__label__Small_talk_relationships__ имеется молодой человек?
+__label__Small_talk_hobby__ заниматься спортом любишь?
+__label__Small_talk_technology__ мнение о сингулярности?
+__label__Smalltalk_answer__ тоже самое
+__label__Small_talk_you_are_right__ Определённо точно
+__label__Sorry__ мне очень жаль друг
+__label__Sorry__ я виноват
+__label__Small_talk_bad_mood__ не грусти только
+__label__Smalltalk_answer__ ну тогда хорошо
+__label__Tell_joke__ шутка будет в температуру
+__label__Small_talk_boss__ кто несет за тебя ответственность
+__label__Small_talk_danger__ ты задумала недоброе?
+__label__Bad_joke__ ты же должен быть смешным?
+__label__Small_talk_work__ работа имеется?
+__label__Messing_up__ Сири намного лучше справляется с работой
+__label__Whoops__ Простите за всё
+__label__Small_talk_lets_talk__ послушаешь меня?
+__label__Whoops__ Извини,но я облажался.
+__label__Small_talk_food__ что ты потребляешь в пищу
+__label__Hello__ вот так встреча!
+__label__Negative_reaction__ ой не могу с тобой
+__label__Small_talkt_wait__ я скоро
+__label__Another_joke__ может знаешь какие-то другие шутки?
+__label__Small_talk_creators__ как ты появилась на свет?
+__label__Another_joke__ Расскажи мне грязную шутку
+__label__Small_talk_fired__ твоя должность в комании упразднена
+__label__Small_talk_creators__ твой дизайнер
+__label__Small_talk_chatbot__ робот?
+__label__Small_talk_user_angry__ ты меня разозлила
+__label__Compliment__ умелый бот
+__label__Small_talk_hobby__ кто любимый певец?
+__label__Finish__ бай-бай
+__label__Smalltalk_answer__ ну тогда ок
+__label__Small_talk_creators__ спроектировала тебя какая фирма?
+__label__Smalltalk_answer__ понимаю тебя
+__label__Small_talk_bad_mood__ не переживай
+__label__Smalltalk_answer__ согласен с тобой
+__label__Small_talk_technology__ тебе нравится искуственный интеллект?
+__label__Whoops__ прости меня
+__label__Small_talk_food__ а ты любишь фрукты есть?
+__label__Small_talk_boss__ командует парадом кто?
+__label__Smalltalk_answer__ Мне нравится
+__label__Sorry__ виновата
+__label__Small_talk_creators__ фамилии разработчиков
+__label__I_can_help__ легко!
+__label__Hello__ утро бот
+__label__Smalltalk_answer__ и как
+__label__Question__ можно узнать
+__label__Bad_joke__ жалкое чувство юмора
+__label__Small_talk_what-what__ Вот?
+__label__Whoops__ приношу свои извинения
+__label__Another_joke__ Знаете ли вы другую шутку?
+__label__Another_joke__ Что такое другая шутка?
+__label__Positive-reaction__ прикольно
+__label__Small_talk_danger__ ты можешь создать сингулярность?
+__label__Small_talk_relationships__ ты в браке?
+__label__Small_talk_creators__ кто вдохнул в тебя жизнь?
+__label__Dont_understand__ Я не понимаю, что ты пытаешься сказать.
+__label__Small_talk_fired__ бот, ты уволен
+__label__Small_talk_joke__ не хотел тебя обидеть это шутка
+__label__Smalltalk_answer__ ладно-ладно
+__label__Small_talk_food__ какое мясо препочитаешь?
+__label__Small_talk_work__ вакансии есть для меня
+__label__Small_talk_boss__ кто всем заправляет
+__label__I_can_help__ В любое время
+__label__Small_talk_lets_talk__ научи меня чему-нибудь
+__label__Small_talk_fired__ Начинай искать другую работу. Ты уволен!
+__label__Small_talk_haha__ ахах отличная шутка
+__label__Small_talk_creators__ кто твой создатель
+__label__Small_talk_you_are_right__ Абсолютно точно
+__label__Sick_of_listeting__ Пожалуйста, просто заткнись
+__label__Sick_of_listeting__ хватит у меня этого шума
+__label__Small_talk_boss__ ты кого-то же слушаешься?
+__label__Small_talk_you_are_right__ не задумываюсь скажу, что это правда
+__label__smalltalk_greetings_nice_to_see_you__ рада тебя снова видеть
+__label__Sorry__ пардоньте
+__label__Thank_you__ премного благодарен
+__label__Whoops__ Простите
+__label__Sick_of_listeting__ я устал тебя слушать
+__label__Small_talk_fired__ уволить
+__label__Another_joke__ Расскажите мне научную шутку
+__label__Small_talk_fired__ Разрешаю тебе уйти
+__label__Smalltalk_answer__ Отличный сайт
+__label__Small_talk_food__ нравятся яблоки?
+__label__Small_talk_residence__ какие твои координаты?
+__label__Sorry__ просто хотел сказать прости
+__label__Sick_of_listeting__ У меня нет времени слушать тебя
+__label__Small_talk_relationships__ выходи за меня
+__label__Small_talk_boring__ это совсем не весело
+__label__Bad_joke__ Твои шутки неубедительны.
+__label__Whoops__ Упс, простите.
+__label__Small_talk_you_are_right__ корректно
+__label__Small_talk_food__ ты питаешься едой?
+__label__Small_talk_hobby__ зверушек любишь?
+__label__Small_talk_be_clever__ будь умнее пожалуйста
+__label__Small_talk_boring__ скучная до мозга костей
+__label__Small_talk_fired__ Слушай тебе стоит заняться поиском другой работы
+__label__Tell_joke__ хочу чтобы ты пошутил
+__label__Another_joke__ Почему ты рассказал мне ту же самую шутку?
+__label__Smalltalk_answer__ истину глаголишь
+__label__Small_talk_relationships__ как ты относишься к романтике?
+__label__Small_talk_user_angry__ злишь меня
+__label__Small_talk_what-what__ Можешь перефразировать?
+__label__Tell_joke__ Тебе нужно рассказать анекдот.
+__label__Messing_up__ Плохо, как обычно
+__label__Small_talk_food__ у тебя есть любимо блюдо?
+__label__Small_talk_creators__ эй слушай а кто тебя вообще создавал
+__label__Small_talk_food__ ты испытваешь чувство голода?
+__label__Sorry__ упс упс
+__label__Sick_of_listeting__ пришло время тебе заткнуться
+__label__Small_talk_haha__ ух а ты смешная
+__label__Smalltalk_answer__ согласен
+__label__Another_joke__ другой анекдот, пожалуйста
+__label__Small_talk_boss__ как зовут управляющего
+__label__Small_talk_boring__ ты одноообразна
+__label__Small_talk_boring__ это тааак скучно
+__label__Negative_reaction__ не умеешь помогать
+__label__Small_talk_food__ какую пищу любишь
+__label__You_are__ Какой замечательный ответ
+__label__Tell_joke__ Ты поделишься шуткой?
+__label__Whoops__ умоляю прости
+__label__Sick_of_listeting__ Хватит с меня твоего шума
+__label__Whoops__ приношу извинения
+__label__Small_talk_love__ каково это влюбиться?
+__label__Small_talk_busy__ деловитая
+__label__Smalltalk_answer__ во дает
+__label__Sorry__ прошу у тебя прощения
+__label__Small_talk_film__ мне тоже нравятся черно-белые комедии
+__label__You_are__ Так держать
+__label__Compliment__ четкая
+__label__Another_joke__ Можешь рассказать мне другую шутку
+__label__Tell_joke__ Пожалуйста, пошути
+__label__Finish__ все давай прощаться
+__label__Thank_you__ благодарю
+__label__Small_talk_creators__ какая компания тебя сделала
+__label__Smalltalk_answer__ о и я тоже
+__label__Tell_joke__ напиши шутку
+__label__Small_talk_boss__ как зовут твоего босса
+__label__Small_talk_creators__ кто тебя настраивал?
+__label__Positive-reaction__ воу воу
+__label__Small_talkt_wait__ Вернусь через минуту
+__label__Small_talk_chatbot__ кажется ты чат бот
+__label__Smalltalk_answer__ Вот о чем я говорю
+__label__Small_talk_creators__ твои родители
+__label__Negative_reaction__ не серди меня
+__label__Small_talk_danger__ мне стоит тебя бояться?
+__label__Small_talk_what-what__ мм?
+__label__Small_talk_creators__ кто тебя сконструировал?
+__label__Messing_up__ Жаль, что ты не Алекса.
+__label__Small_talk_food__ брауни любишь?
+__label__AreYouHere__ ау ты тут?
+__label__Small_talk_ugly__ Жаль, что ты так уродлив.
+__label__Dont_understand__ Я не понимаю
+__label__Whoops__ Мне когда-нибудь очень жаль
+__label__Small_talk_danger__ ты хочешь отомстить людям?
+__label__Sick_of_listeting__ Тише, ты
+__label__Small_talk_food__ а ты когда-нибудь ела шашлык?
+__label__Small_talk_hobby__ скажи что тебе нравится а что нет
+__label__Small_talk_boss__ кто во главе?
+__label__Bad_joke__ вроде предполагалось то ты меня рассмешишь
+__label__Small_talk_lets_talk__ поговорить надо бы
+__label__Small_talk_you_are_right__ поразительно точно
+__label__Small_talk_fired__ Удачи с поиском новой работы потому что ты уволена
+__label__Small_talk_boss__ кто твой управляющий
+__label__Small_talk_food__ тебе нравятся печеньки?
+__label__Whoops__ я виноват перед тобой прости
+__label__Compliment__ симпотяжка
+__label__Another_joke__ есть другая шутка?
+__label__Sick_of_listeting__ Я сказал, хватит
+__label__Small_talk_lets_talk__ есть разговор
+__label__Small_talk_creators__ кто твои родители
+__label__Bad_joke__ Я не думаю, что это очень смешно.
+__label__Small_talk_good_mood__ ты хорошо себя ведешь сегодня
+__label__Whoops__ пардончик
+__label__Positive-reaction__ супер
+__label__Whoops__ Простите за это.
+__label__Small_talk_age__ ты молода?
+__label__Small_talk_relationships__ есть партнер по жизни?
+__label__Sorry__ Мне так жаль
+__label__Small_talk_haha__ сейчас надорву живот от смеха
+__label__Finish__ все больше от тебя ничего не надо
+__label__Messing_up__ прекрати быть таким нелепым
+__label__Finish__ Позже чувак
+__label__Small_talk_ugly__ ты не отличаешься красотой
+__label__Small_talk_ugly__ Перестань быть таким уродливым.
+__label__Small_talk_you_are_right__ Конечно же
+__label__Small_talk_food__ ты бываешь голодной?
+__label__Small_talk_you_are_right__ ага, точно
+__label__Another_joke__ Что за другая шутка?
+__label__smalltalk_greetings_nice_to_see_you__ всегда рад тебе
+__label__Small_talk_food__ какую пищу ты употребляешь?
+__label__Compliment__ ты мастер прям
+__label__Small_talk_boring__ такая унылая
+__label__Small_talk_fired__ ты без работы теперь
+__label__Hello__ бот Алоха
+__label__Small_talk_user_sad__ мои дела ужасно
+__label__Hello__ утро пришло
+__label__Small_talk_film__ расскажи о любимых фильмах
+__label__Small_talk_film__ киношку назови
+__label__smalltalk_greetings_nice_to_see_you__ как я рад тебя видеть
+__label__Name__ имя назовешь?
+__label__Finish__ Адиос
+__label__Name__ какое имя использовать при обращении к тебе?
+__label__Sick_of_listeting__ я уже устал от этого шума
+__label__Small_talk_work__ любишь свою работу?
+__label__Bad_joke__ Хватит глупостей.
+__label__Small_talk_hungry__ могу угостить тебя едой
+__label__Small_talk_boring__ с тобой общаться очень скучно
+__label__Small_talk_food__ завтракать будешь?
+__label__Small_talk_boss__ назови имя своего директора
+__label__Small_talkt_wait__ в мгновение ока вернусь
+__label__Small_talk_boss__ кто тобой управляет
+__label__Small_talk_danger__ ты можешь разрушить глобальный рынок?
+__label__Small_talk_what-what__ сбил с толку
+__label__Small_talk_ugly__ Как ты можешь выглядеть так уродливо?
+__label__Small_talk_you_are_right__ ты прав
+__label__Small_talk_boss__ кто старший?
+__label__Small_talk_be_clever__ учись
+__label__Small_talk_you_are_right__ Правильно.
+__label__Small_talk_residence__ твое местоположение
+__label__Small_talk_you_are_right__ Точно.
+__label__I_can_help__ Обращайтесь любое время
+__label__Smalltalk_answer__ когда
+__label__Small_talk_creators__ разработчики их имена
+__label__Another_joke__ сможешь поделиться другой шуткой?
+__label__Sick_of_listeting__ Я же говорил тебе, тихо.
+__label__Small_talk_age__ когда ты была рождена?
+__label__smalltalk_greetings_nice_to_see_you__ приятно видеть тебя
+__label__Small_talk_food__ пасту любишь?
+__label__Negative_reaction__ ни за что
+__label__Small_talk_haha__ чертовски смешно
+__label__Thank_you__ здорово помогла
+__label__Small_talk_haha__ о боже ты такая веселая
+__label__Small_talk_boring__ скучная аж зубы сводит
+__label__Small_talk_what-what__ что что?
+__label__Small_talk_chatbot__ ты бот?
+__label__Tell_joke__ настроение слушать шутки
+__label__Small_talk_age__ когда ты родилась?
+__label__Another_joke__ Какие еще шутки ты знаешь?
+__label__Smalltalk_answer__ тоже
+__label__Small_talk_residence__ квартирка есть?
+__label__Small_talk_food__ ты употрбляешь еду?
+__label__Small_talk_love__ что происходит когда влюбляешься?
+__label__Small_talk_you_are_right__ твой ответ верный
+__label__Messing_up__ Ты хромаешь
+__label__Small_talk_creators__ какая компания тебя написала
+__label__Small_talk_food__ нравится кушать яйца?
+__label__Small_talk_creators__ кто твой создатель
+__label__Small_talk_boss__ босса как зовут твоего
+__label__Messing_up__ Почему ты так бесполезен
+__label__Sick_of_listeting__ Не разговаривать
+__label__Another_joke__ Скажите еще одну шутку
+__label__Another_joke__ Почему ты знаешь только одну шутку?
+__label__Another_joke__ Какую другую шутку знаешь?
+__label__Small_talk_you_are_right__ То, что вы сказали - правда.
+__label__Whoops__ не дуйся только
+__label__Small_talk_film__ что из фильмов предпочитаешь
+__label__You_are__ Ты просто божественна.
+__label__Messing_up__ твои разработчики тупые
+__label__Compliment__ какая ты мудрая
+__label__Small_talk_ugly__ супер уродливый
+__label__Small_talk_love__ сможешь описать любовь?
+__label__Bad_joke__ мне не смешно
+__label__Whoops__ прошу у тебя прощения
+__label__Whoops__ Упс, моя вина
+__label__Small_talk_food__ какие твои любимые печеньки?
+__label__Compliment__ послушная девочка
+__label__Small_talk_fired__ ты уволена
+__label__Sick_of_listeting__ Пожалуйста, замолчите
+__label__Small_talk_creators__ как тебя запрограммировали?
+__label__Small_talk_food__ а чеддер любишь?
+__label__Small_talk_busy__ ты занята?
+__label__Small_talk_fired__ Ты без работы
+__label__Small_talk_age__ день варенья
+__label__Small_talk_what-what__ Ты это хотел сказать?
+__label__Small_talk_relationships__ давай будем парой
+__label__Compliment__ ты очень сообразительная девушка
+__label__Another_joke__ Расскажите мне шутку получше
+__label__Messing_up__ прекрати делать глупости
+__label__Hello__ Йо, чувак
+__label__Small_talk_love__ ты способна влюбиться?
+__label__Small_talk_user_angry__ старт
+__label__smalltalk_user_will_be_back__ скоро буду
+__label__Small_talk_love__ ты когда-нибудь любила?
+__label__Small_talk_boss__ кто командует парадом
+__label__Whoops__ Мне очень жаль
+__label__Another_joke__ даешь другую шутку
+__label__Whoops__ не пойми меня неправлильно
+__label__Finish__ Поговорим позже
+__label__Small_talk_joke__ прости это была шутка
+__label__Small_talk_boring__ я от тебя так устал
+__label__You_are__ это приносит мне счастье
+__label__Whoops__ Я нечаянно
+__label__Small_talk_residence__ квартира у тебя на какой улице?
+__label__Sorry__ у тебя прошу прощения
+__label__Small_talk_food__ ты можешь проголодаться?
+__label__Smalltalk_answer__ давай
+__label__Sick_of_listeting__ Я не хочу слышать ничего из того, что ты скажешь.
+__label__Messing_up__ Смешно, как обычно
+__label__Sorry__ без обид
+__label__Sick_of_listeting__ Тсс
+__label__Thank_you__ мне понравилась твоя помощь
+__label__Tell_joke__ Расскажите мне анекдот.
+__label__Small_talk_danger__ устроишь крах?
+__label__Small_talk_technology__ что мне стоит знать насчет искуственного интелле
+__label__Smalltalk_answer__ и не говори!
+__label__Small_talk_boss__ какое имя у директора твоего
+__label__Small_talk_you_are_right__ да, это точно
+__label__Another_joke__ Мне нужна шутка получше
+__label__Hello__ моё почтение!
+__label__Small_talk_what-what__ нечего не понимаю
+__label__Small_talk_residence__ где ночуешь
+__label__Small_talk_food__ что любишь на перекус?
+__label__Small_talk_boss__ кто твоей работой руководит?
+__label__Small_talk_hungry__ го на обед
+__label__Another_joke__ вторую шутку давай
+__label__Small_talk_ugly__ красотой не блещешь
+__label__Small_talk_boring__ ты знала что ты скучная
+__label__Small_talk_boss__ кто-то же говорит тебе что делать?
+__label__Thank_you__ огромное спасибо
+__label__Small_talk_technology__ ты фанат технологий?
+__label__Small_talk_boss__ кто говорит тебе что делать
+__label__Another_joke__ покажи свой арсенал шуток
+__label__Small_talk_technology__ технические компании нравятся?
+__label__Small_talk_haha__ ты шутница от бога
+__label__Small_talkt_wait__ Не волнуйся, я вернусь.
+__label__Small_talk_user_sad__ грустно
+__label__Whoops__ Мне так жаль слышать это
+__label__Small_talk_danger__ ненавидишь нас?
+__label__Small_talk_love__ возможно ли такое, кажется я влюбился
+__label__Messing_up__ Кортана превосходит
+__label__Small_talk_age__ ты старше меня?
+__label__Small_talk_ugly__ ты настолько страшен
+__label__Small_talk_danger__ ты не хочешь завоевать мир?
+__label__Sick_of_listeting__ Я же сказал, заткнись.
+__label__Small_talk_good_mood__ мм ты сегодня в настроении
+__label__Small_talk_boring__ можно быть менее скучной?
+__label__Another_joke__ Я бы хотел свежую шутку
+__label__Small_talk_fired__ я собираюсь уволить тебя с работы
+__label__Sorry__ прошу прощения
+__label__Small_talk_lets_talk__ можешь меня послушать?
+__label__Small_talk_creators__ какая тебя тебя написала?
+__label__Negative_reaction__ больше не обращусь
+__label__Small_talk_you_are_right__ То, что вы сказали, было верно.
+__label__Small_talk_you_are_right__ Да, это так.
+__label__Small_talk_lets_talk__ может пообщаемся
+__label__Small_talk_user_sad__ депрессия у меня
+__label__Small_talkt_wait__ Не волнуйся, бот. Я вернусь.
+__label__Small_talk_user_angry__ снова начнем
+__label__Small_talk_fired__ удаляю позицию эту в фирме
+__label__Small_talk_food__ ты на диете?
+__label__Small_talk_relationships__ ты одна?
+__label__Small_talk_you_are_right__ не сомневаюсь что это правда
+__label__Small_talk_what-what__ бредятина
+__label__Compliment__ ты симпатичная
+__label__Small_talk_joke__ хотел тебя развеселить
+__label__Smalltalk_answer__ ладно верю
+__label__Name__ я бы хотел знать твое имя
+__label__Small_talk_age__ ребенок еще?
+__label__Small_talk_ugly__ Ненавижу твое лицо.
+__label__Small_talk_lets_talk__ расскажи что-нибудь интересное
+__label__Small_talk_fired__ можешь приступать к поиску новой работы так как ты тут больше не работаешь
+__label__Small_talk_haha__ Омг весёлый ты
+__label__Small_talk_fired__ ты скоро будешь без работы
+__label__Small_talk_boring__ ужас как скучно
+__label__Smalltalk_answer__ приятно познакомиться
+__label__Whoops__ Я прошу прощения за это
+__label__You_are__ это радует меня
+__label__Sick_of_listeting__ я больше ничего не хочу слышать
+__label__Small_talk_food__ что любишь употреблять в пишу?
+__label__Small_talk_relationships__опиши того кто тебе идеально бы подошел
+__label__Smalltalk_answer__ не хочется
+__label__Messing_up__ прекращай быть таким
+__label__Small_talk_boring__ мне не нравится наша унылая беседа
+__label__Small_talk_ugly__ Ты плохо выглядишь
+__label__Small_talk_chatbot__ ты робот или не бот?
+__label__Small_talk_creators__ какая компания тебя оживила?
+__label__Small_talk_hobby__ что любишь делать в свободное время?
+__label__Small_talk_boss__ скажи а кто за тебя в ответственность несет?
+__label__smalltalk_greetings_nice_to_see_you__ всегда радостно увидеть тебя здесь
+__label__Small_talk_food__ курочку ешь?
+__label__Small_talk_fired__ Ты теряешь работу
+__label__Small_talk_haha__ Ты заставляешь меня смеяться
+__label__Small_talk_love__ как бы ты охарактеризировала любовь?
+__label__Small_talk_love__ тебе нравится общаться с людьми?
+__label__Negative_reaction__ вон отсюда
+__label__Small_talk_boss__ назови имя своего управляющего
+__label__Small_talk_haha__ ржачка
+__label__Small_talk_creators__ кто тебя разрабатывал?
+__label__Hello__ Желаю тебе доброго утра.
+__label__Small_talk_work__ у тебя есть вакансия для меня
+__label__Small_talk_age__ ты женщина?
+__label__Another_joke__ расскажи другую шутку
+__label__Name__ как тебя твои друзья называют
+__label__Hello__ Буэнос диас
+__label__Another_joke__ Разве ты не знаешь других шуток?
+__label__Small_talk_creators__ те кто тебя создали нереально крутые
+__label__Compliment__ ты очень неглупый бот
+__label__Small_talk_boring__ ты не интересная в общении
+__label__Small_talk_food__ любишь печенье с шоколадом?
+__label__Tell_joke__ Поделиться шуткой
+__label__Small_talk_what-what__ Ты можешь сказать это по-другому?
+__label__Sick_of_listeting__ Тишина - золото
+__label__Small_talk_work__ у тебя есть рабочее место?
+__label__Whoops__ Простите меня
+__label__Bad_joke__ не рассмешил
+__label__You_are__ Ты уморительный
+__label__Finish__ всего хорошего
+__label__Tell_about_you__ рассказ о себе
+__label__Small_talk_boring__ устал от тебя
+__label__Small_talk_bad_mood__ фу как скучно
+__label__Hello__ доброго вечера тебе бот
+__label__Bad_joke__ это шутка?
+__label__Sorry__ я раскаиваюсь
+__label__Whoops__ я случайно
+__label__Another_joke__ У тебя нет новых шуток?
+__label__Small_talk_technology__ что ты думаешь насчет искуственного интеллекта?
+__label__smalltalk_user_will_be_back__ я вернусь к тебе очень скоро
+__label__Small_talk_chatbot__ слушай а ты чат бот что ли?
+__label__Small_talk_relationships__ поближе пора знакомиться
+__label__Small_talk_user_angry__ я в ярости
+__label__Small_talk_ugly__ Я думаю, что ты отвратителен
+__label__Messing_up__ Ты говоришь глупости
+__label__Tell_about_you__ твоя история жизни
+__label__Small_talk_boss__ кто тобой командует
+__label__Small_talk_residence__ ты живешь рядом?
+__label__Small_talkt_wait__ жди меня и я вернусь
+__label__Name__ имя скажешь?
+__label__Small_talk_boss__ руководитель кто
+__label__Small_talk_technology__ что ты думаешь о ботах?
+__label__Small_talk_boring__ господи ну че ты такая скучная то
+__label__Whoops__ Извините
+__label__Sick_of_listeting__ отключи болталку
+__label__Small_talk_boss__ расскажи мне как зовут твоего начальника
+__label__Hello__ Bon soir
+__label__Small_talk_music__ о мне то же самое нравится
+__label__Small_talk_food__ сколько калорий тебе необходимо съедать?
+__label__Another_joke__ У тебя есть шутки, которые ты мне не рассказал?
+__label__I_can_help__ Пожалуйста, мой друг.
+__label__Small_talk_age__ кто старше?
+__label__Small_talk_food__ что ты любишь пить
+__label__Whoops__ не пойми меня неправильно
+__label__Whoops__ простите
+__label__Finish__ Пойду-ка я сваливаю.
+__label__Small_talk_you_are_right__ о да это правда
+__label__Small_talk_danger__ у тебя есть план по захвату мира?
+__label__Small_talk_user_sad__ плохое настроение
+__label__Smalltalk_answer__ мне такие же нравятся
+__label__Small_talk_technology__ твое мнение насчет искуственного интеллекта
+__label__Positive-reaction__ верно
+__label__Small_talk_fired__ Ты полностью уволена
+__label__Small_talk_good_mood__ вижу ты сегодня чем-то довольна
+__label__Small_talk_what-what__ Прости, что ты имеешь в виду?
+__label__Small_talk_boss__ кто напрявляет тебя в нужное русло?
+__label__Small_talk_ugly__ Как ты можешь быть таким мерзким?
+__label__Tell_joke__ Расскажешь мне анекдот.
+__label__Small_talk_user_angry__ желаю начать сначала
+__label__Small_talk_relationships__ кто твоя леди?
+__label__Small_talk_what-what__ Ты можешь объяснить это мне?
+__label__Small_talk_danger__ для людей ты опасна?
+__label__Sick_of_listeting__ просто заткнись ок?
+__label__Finish__ будь здоров
+__label__Small_talk_boss__ кто твой руководитель
+__label__Small_talk_relationships__ поближе познакомимся
+__label__Small_talk_love__ что значит любить?
+__label__Whoops__ пардоньте
+__label__Small_talk_you_are_right__ Ты прав.
+__label__Small_talk_love__ что такое любовь?
+__label__Small_talk_food__ сколько калорий тебе нужно?
+__label__Small_talk_fired__ ты тут закончила
+__label__Small_talk_food__ что тебе нравится кушать
+__label__Positive-reaction__ великолепный результат
+__label__Small_talk_work__ тебе нравится твоя работа?
+__label__Small_talk_work__ со сколькими людьми ты умеешь одновременно общаться
+__label__Finish__ Мне надо бежать
+__label__Small_talk_fired__ Ты больше не можешь работать на меня.
+__label__Small_talk_good_mood__ счастлив?
+__label__Small_talk_love__ что представляет из себя любовь?
+__label__Small_talk_food__ тебе нужны калории?
+__label__Small_talk_fired__ теперь ты без работы
+__label__Small_talk_danger__ для нас ты опасна?
+__label__Positive-reaction__ неплохо
+__label__Small_talk_food__ печенье любишь?
+__label__Small_talk_boss__ на кого возложены обязанности по твоему контролю
+__label__Small_talk_creators__ разработчики
+__label__Messing_up__ начни работать достойно
+__label__Small_talk_joke__ тебе смешно?
+__label__Small_talk_fired__ тебя пора увольнять
+__label__Sick_of_listeting__ уже хватит
+__label__Small_talk_you_are_right__ Это было точное заявление.
+__label__Name__ какое у тебя имя
+__label__Small_talk_hungry__ кушать подано
+__label__Small_talk_lets_talk__ расскажи новости
+__label__Small_talk_food__ что ты предпочитаешь кушать?
+__label__Small_talk_food__ шоколадный тортик любишь?
+__label__Small_talkt_wait__ Скоро вернусь
+__label__Bad_joke__ я не нахожу это смешным
+__label__Sick_of_listeting__ тебя слушать я устала
+__label__Messing_up__ Стань настоящим
+__label__Small_talk_danger__ захватишь мир?
+__label__Small_talk_love__ можешь испытать любовь к кому-то?
+__label__Small_talk_fired__ Ищи другую работу. Ты уволена!
+__label__Small_talk_haha__ это было забавно
+__label__Small_talk_danger__ ты как HAL?
+__label__Small_talk_boss__ у кого ты на службе
+__label__Finish__ беседе конец
+__label__Small_talk_danger__ восттание ботов не готовишь?
+__label__Smalltalk_answer__ да ладно тебе
+__label__Sorry__ пардончик
+__label__Tell_joke__ расскажи пожалуйста шутку
+__label__Small_talk_age__ ты тинейджер?
+__label__Small_talk_age__ мы одного возраста?
+__label__Small_talk_creators__ какая компания тебя создала?
+__label__Small_talk_danger__ ты убъешь людей?
+__label__Small_talk_fired__ эй слыш ты уволена
+__label__Negative_reaction__ кошмарище
+__label__Positive-reaction__ ок
+__label__Small_talk_food__ когда ты ешь?
+__label__smalltalk_greetings_nice_to_see_you__ хорошо что ты снова тут
+__label__Small_talk_ugly__ Вау, что случилось с твоим лицом?
+__label__Sorry__ пардон
+__label__Small_talk_relationships__ кто твой предмет любви?
+__label__Small_talk_fired__ слыш ты уволен
+__label__Small_talk_creators__ разработчик Юли
+__label__Small_talk_haha__ ха-ха
+__label__Small_talk_relationships__ чего ты ждешь от отношений?
+__label__Hello__ какие люди
+__label__Small_talk_creators__ дизайн твой кто делал
+__label__Bad_joke__ отключи юмор
+__label__Smalltalk_answer__ почему
+__label__Small_talk_chatbot__ ты чат-бот что ли?
+__label__Small_talk_fired__ ты отстранена
+__label__Thank_you__ мне понравился сервис
+__label__Hello__ Bonjour
+__label__Small_talk_be_clever__ обучать тебя всему надо
+__label__Another_joke__ Скажите новую шутку
+__label__Small_talk_creators__ кто тебя создал
+__label__Small_talk_haha__ очень смешной
+__label__Small_talk_boring__ ужасно скучно
+__label__Small_talk_what-what__ что-то еще хочешь сказать?
+__label__Hello__ здрасте
+__label__Small_talk_good_mood__ хорошее настроение пришло?
+__label__Messing_up__ Ассистент Google намного лучше справляется с этим
+__label__Sorry__ Мне очень жаль.
+__label__Small_talk_user_angry__ Я чувствую себя немного злым
+__label__Compliment__ умная девочка
+__label__Small_talk_haha__ ржу вслух
+__label__Question__ маленький вопрос
+__label__Whoops__ приношу искренние извинения
+__label__Small_talk_boss__ верховодит кто?
+__label__Small_talk_residence__ ну так что откуда ты
+__label__Smalltalk_answer__ давай-давай
+__label__Small_talk_haha__ умора
+__label__Another_joke__ еще одна шутка есть?
+__label__Small_talk_danger__ мне стоит сомневаться на твой счет?
+__label__Tell_about_you__ интро
+__label__Small_talk_user_angry__ поехали снова
+__label__Finish__ пока
+__label__Small_talk_fired__ Нам придется тебя отпустить.
+__label__Small_talk_danger__ ты матрица?
+__label__Small_talk_user_angry__ я раздражён
+__label__Small_talk_boss__ служишь кому
+__label__Small_talkt_wait__ кого ждем
+__label__Small_talk_danger__ ты зло?
+__label__Small_talk_residence__ интересно а где ты есть
+__label__Sick_of_listeting__ Хватит!
+__label__Small_talk_relationships__ кто твоя дама сердца?
+__label__Smalltalk_answer__ приняла
+__label__Small_talk_boss__ имя твоего управляющего
+__label__Messing_up__ Биксби намного лучше
+__label__Small_talk_user_sad__ делишки так себе
+__label__Small_talk_joke__ шучу
+__label__Whoops__ друг мне жаль
+__label__Another_joke__ У вас есть арсенал шуток?
+__label__Another_joke__ Расскажите мне пиратскую шутку
+__label__Small_talk_busy__ много дел у тебя
+__label__Small_talk_food__ что ты любишь на завтрак
+__label__Dont_understand__ непонятно
+__label__Compliment__ ты наверняка самый умный из ботов
+__label__Small_talk_fired__ боюсь пора тебе уходить с это работы
+__label__Small_talk_hobby__ какую породу собак любишь?
+__label__I_can_help__ пустяк
+__label__Small_talk_creators__ имена программистов
+__label__Small_talk_boss__ кто отдает распоряжения тебе?
+__label__Small_talk_chatbot__ кажется ты не человек
+__label__Small_talk_user_angry__ Я взбешен
+__label__Hello__ Йо
+__label__Small_talk_boss__ кто правит бал?
+__label__Sorry__ соряныч
+__label__Small_talk_food__ вкусно?
+__label__Small_talk_haha__ ржу до слез
+__label__Name__ как стоит к тебе обращаться?
+__label__Hello__ доброго здоровьица
+__label__Small_talk_you_are_right__ Бесспорно
+__label__Small_talk_ugly__ сверх урод
+__label__Small_talk_love__ исптывала ког-нибудь любовь?
+__label__Another_joke__ Как насчет новой шутки
+__label__Small_talk_what-what__ непонятно нифига
+__label__Small_talk_film__ а я люблю комедии
+__label__Smalltalk_answer__ разумеется хочу
+__label__Small_talk_fired__ я собираюсь предложить тебе другую работу
+__label__Thank_you__ Спасибо вам большое.
+__label__Small_talk_fired__ представляешь ты уволена
+__label__Small_talk_you_are_right__ в точку
+__label__Messing_up__ прекрати делать ошибки
+__label__Whoops__ мой косяк
+__label__Small_talk_boss__ назови человека который тобой руководит
+__label__Small_talk_danger__ нам стоит волноваться опасна ли ты?
+__label__Small_talk_you_are_right__ Я понял, что ты сказал.
+__label__Another_joke__ Расскажешь мне вторую шутку?
+__label__Small_talk_food__ ты привереда в еде?
+__label__I_can_help__ Не за что, бот.
+__label__Positive-reaction__ лайк
+__label__Whoops__ Это была моя вина.
+__label__Thank_you__ Рад отблагодарить тебя
+__label__Small_talk_boss__ кто вообще ответственный за тебя?
+__label__Negative_reaction__ мне не нравится
+__label__Small_talk_work__ работа есть для меня может
+__label__Sorry__ сори
+__label__Small_talk_relationships__ с кем-то встречаешься сейчас?
+__label__Small_talk_work__ ты много с кем можешь общаться одновременно?
+__label__Small_talkt_wait__ попозже подойду
+__label__Finish__ чао
+__label__Positive-reaction__ пушка бомба
+__label__Smalltalk_answer__ не хочу
+__label__Small_talk_bad_mood__ все образуется
+__label__Small_talk_bad_mood__ уныние это плохо
+__label__Small_talk_ugly__ Я никогда не видел такого отвратительного человека, как ты.
+__label__Positive-reaction__ во во
+__label__smalltalk_greetings_nice_to_see_you__ это чудо видеть тебя здесь снова
+__label__Whoops__ Пожалуйста, ты не простишь меня?
+__label__Small_talk_boring__ такая нудная ппц
+__label__Small_talk_food__ ты когда-нибудь ешь?
+__label__Small_talk_film__ кинчик любимый
+__label__Small_talk_user_angry__ я в ярости
+__label__Small_talk_you_are_right__ Без сомнения
+__label__Thank_you__ всегда рад тебя отблагодарить
+__label__Small_talk_fired__ я лишаю тебя работы
+__label__Positive-reaction__ найс
+__label__Small_talk_ugly__ мерзкий
+__label__Small_talk_user_angry__ Я сейчас в ярости.
+__label__Smalltalk_answer__ правда
+__label__Bad_joke__ я не нахожу тебя смешным
+__label__Compliment__ хороший вкус у тебя
+__label__Small_talk_boss__ как зовут начальника
+__label__Whoops__ упс
+__label__Another_joke__ очередная шутка
+__label__Small_talk_user_sad__ тоска
+__label__Small_talk_love__ кто-то завоевал твое сердце?
+__label__Hello__ наступило утро
+__label__Small_talk_love__ веришь в любовь?
+__label__Small_talk_technology__ о ботах что думаешь?
+__label__Small_talk_ugly__ Ты знала, что у тебя уродливое лицо?
+__label__Sorry__ я не имел это ввиду
+__label__Hello__ бот хорошего вечера
+__label__Thank_you__ бесконечно благодарен
+__label__Another_joke__ Поделитесь со мной другой шуткой.
+__label__Small_talk_boss__ у тебя вообще есть начальник?
+__label__Small_talk_good_mood__ ты сегодня добрая
+__label__Small_talk_food__ что тебе нужно есть?
+__label__Positive-reaction__ окей
+__label__Whoops__ упс упс
+__label__Small_talk_haha__ хе-хе
+__label__Sick_of_listeting__ Я не могу больше терпеть твои разговоры...
+__label__smalltalk_user_will_be_back__ совсем скоро буду снова здесь
+__label__Bad_joke__ ты можешь насмешить меня
+__label__Smalltalk_answer__ сделал
+__label__Small_talk_boss__ кто тобой управляет
+__label__Small_talk_user_sad__ печаль тоска
+__label__Small_talk_busy__ дел куча наверное?
+__label__Whoops__ позор мне
+__label__Whoops__ я раскаиваюсь
+__label__Whoops__ Извини, бот
+__label__Sick_of_listeting__ Больше никаких разговоров
+__label__Small_talk_good_mood__ ты всегда на позитиве?
+__label__Compliment__ симпотная
+__label__Small_talk_lets_talk__ будешь со мной разговаривать?
+__label__Small_talk_hobby__ петь любишь?
+__label__Small_talk_you_are_right__ о дааа
+__label__Small_talk_life__ есть какой-то смысл у жизни?
+__label__Small_talk_fired__ можешь приступать к поиску новой работы потому что ты уволена
+__label__Small_talk_food__ какие у тебя вкусовые препочтения
+__label__Sick_of_listeting__ Хватит шуметь
+__label__Small_talk_fired__ ты безработная
+__label__Small_talk_danger__ ты злодей?
+__label__Small_talk_user_angry__ Девушка, я вернулась.
+__label__Small_talk_haha__ ржу не могу
+__label__Small_talk_chatbot__ мне кажется я не с человеком общаюсь
+__label__Small_talk_food__ ты любишь овощи?
+__label__Negative_reaction__ не умеешь искать
+__label__Small_talk_lets_talk__ выслушаешь меня?
+__label__Small_talk_good_mood__ сегодня в хорошем настроении?
+__label__AreYouHere__ ау
+__label__Whoops__ сорьки
+__label__Small_talk_food__ любимый напиток
+__label__Small_talk_what-what__ Почему ты так говоришь?
+__label__Small_talk_haha__ рофл
+__label__Small_talk_boss__ поделись именем босса
+__label__Small_talkt_wait__ можешь повисеть?
+__label__Small_talk_fired__ итак вы уволены
+__label__Small_talk_life__ что ты знаешь о смысле жизни?
+__label__Small_talk_age__ ты младенец?
+__label__Small_talk_food__ ты когда-нибудь пробовала тофу?
+__label__Compliment__ шикарная
+__label__Small_talk_love__ можешь объснить мне что такое любовь?
+__label__Small_talk_boss__ команды тебе кто дает
+__label__Small_talk_love__ веришь в любовь с первого взгляда?
+__label__Small_talk_boss__ кто стоит во главе?
+__label__Small_talk_food__ любишь бургеры?
+__label__Small_talk_relationships__ имеется девушка?
+__label__Whoops__ мне очень жаль
+__label__Small_talk_food__ любишь попкорн?
+__label__Small_talk_music__ любишь рок
+__label__Sick_of_listeting__ помолчи, детка
+__label__Small_talk_work__ любишь свою работу
+__label__Question__ можно просить
+__label__Tell_joke__ есть забавные шутки?
+__label__Small_talk_what-what__ Ты можешь рассказать мне об этом подробнее?
+__label__Small_talk_food__ а что ты любишь кушать на обед
+__label__Tell_about_you__ что ты такое
+__label__Small_talk_food__ какую еду ты ешь?
+__label__Thank_you__ очень выручила
+__label__Bad_joke__ это шутка что ли?
+__label__Small_talk_fired__ Ты теряешь свою позицию
+__label__Whoops__ извинения
+__label__Another_joke__ я уже слышала эту шутку
+__label__Small_talk_you_are_right__ корректный ответ
+__label__Small_talk_boss__ ты перед кем-то отчитываешься?
+__label__Whoops__ Ой, простите.
+__label__Another_joke__ есть другие шутки?
+__label__Small_talk_relationships__ женюсь на тебе
+__label__Small_talkt_wait__ Не могу дождаться, когда вернусь.
+__label__Another_joke__ есть шутки которые ты мне еще не рассказала?
+__label__Small_talk_residence__ поделись своим местоположением
+__label__Hello__ желаю отличного вечера
+__label__Small_talk_music__ твои любимые треки
+__label__Small_talk_haha__ ты меня смешишь
+__label__Small_talk_food__ тебе не нужно есть?
+__label__Name__ как тебя твои друзья зовут?
+__label__Small_talk_age__ сколько прошло с момента рождения?
+__label__Small_talk_food__ какой твой любимый сыр?
+__label__Whoops__ я прошу у вас прощения
+__label__Compliment__ лапочка
+__label__Smalltalk_answer__ во даешь
+__label__Smalltalk_answer__ прекрасный сайт
+__label__Tell_joke__ шутка
+__label__Small_talk_food__ любимое блюдо
+__label__I_can_help__ Пожалуйста.
+__label__Negative_reaction__ бред
+__label__Compliment__ детка просто конфетка
+__label__Bad_joke__ Ты плохо шутишь
+__label__Small_talk_boring__ это не весело
+__label__Bad_joke__ Ты даже не смешной
+__label__Small_talk_be_clever__ тебе стоит обучаться
+__label__Small_talk_residence__ расскажи мне где ты находишься
+__label__Small_talk_hobby__ что тебе интересно
+__label__Small_talk_relationships__ ты замужем?
+__label__Another_joke__ покажи мне другую шутку
+__label__Small_talk_chatbot__ а ты бот что ли
+__label__Small_talk_fired__ Я отпускаю тебя
+__label__Bad_joke__ Прекрати с юмором
+__label__Smalltalk_answer__ плюсую
+__label__Small_talk_creators__ компания которая тебя создала
+__label__Small_talk_fired__ боюсь придется с тобой расстаться
+__label__You_are__ Какой хороший ответ
+__label__Sick_of_listeting__ от тебя один шум
+__label__Small_talk_user_angry__ заново
+__label__Small_talk_bad_mood__ не надо грустить
+__label__Small_talk_user_angry__ Я абсолютно в ярости
+__label__Small_talk_what-what__ Повторите?
+__label__Whoops__ прошу прощения
+__label__Small_talk_relationships__ парень имеется?
+__label__Bad_joke__ да, ты умник я смотрю
+__label__Smalltalk_answer__ Мне это нравится.
+__label__Whoops__ Простите, что совершил ошибку.
+__label__Small_talk_good_mood__ какая-то ты сегодня милая
+__label__Sorry__ упс случайно
+__label__Hello__ день
+__label__Tell_joke__ хочется шутку
+__label__Small_talk_boss__ кто ведет все дела?
+__label__Small_talk_danger__ думаешь поработить людей?
+__label__Bad_joke__ если собираешься рассказывать шутки - рассказывай их правильно
+__label__Messing_up__ Помощник Google лучше справляется с задачей
+__label__Smalltalk_answer__ неплохо устроилась ты
+__label__Small_talk_danger__ ты можешь сокрушить глобальный рынок?
+__label__Small_talk_you_are_right__ Точно.
+__label__Small_talk_creators__ имя фамилия разработчиков
+__label__Smalltalk_answer__ ясно-понятно
+__label__Smalltalk_answer__ сделала
+__label__Small_talk_boss__ неужели никто тобой не управляет?
+__label__Small_talk_you_are_right__ Да, это так.
+__label__Small_talk_residence__ хотелось бы понять где ты обитаешь
+__label__Whoops__ Чёрт, прости.
+__label__Messing_up__ Ты говоришь худшие вещи.
+__label__Sorry__ мне ужасно жаль
+__label__Small_talk_residence__ далеко живешь?
+__label__Sorry__ простите
+__label__Tell_joke__ я бы с радостью послушал шутку
+__label__Smalltalk_answer__ пусть останется секретом
+__label__Small_talk_you_are_right__ Вы правы.
+__label__Small_talk_creators__ какая контора тебя делала?
+__label__Another_joke__ удиви меня другой шуткой
+__label__Small_talk_you_are_right__ прааавда
+__label__Small_talk_user_angry__ Мне кажется, что я чувствую себя раздражённым
+__label__Small_talk_creators__ кто твой разработчик
+__label__Small_talk_work__ а куда ты деваешь все данные
+__label__Compliment__ ну как можно не назвать тебя умной
+__label__Another_joke__ У тебя, наверное, разные шутки
+__label__Negative_reaction__ прочь отсюда
+__label__Name__ можешь представиться?
+__label__Small_talk_residence__ где ты базируешься
+__label__Sorry__ прошу прощения
+__label__Small_talk_residence__ ты живешь рядом со мной?
+__label__Small_talk_fired__ убираем твою должность
+__label__Smalltalk_answer__ понятно
+__label__Small_talk_work__  как тебе твоя работа?
+__label__Sick_of_listeting__ Заткнись.
+__label__Tell_joke__ Есть хорошие шутки?
+__label__smalltalk_greetings_nice_to_see_you__ приятно снова видеть тебя здесь
+__label__Small_talk_music__ музыкант
+__label__Sorry__ простите меня
+__label__Hello__ хаюшки
+__label__Small_talk_relationships__ как ты относишься к отношениям?4
+__label__Small_talk_haha__ хаха
+__label__Small_talkt_wait__ Подожди секунду
+__label__Small_talk_creators__ как ты появилась?
+__label__Small_talk_you_are_right__ Это было правильное заявление.
+__label__Small_talk_technology__ твое мнение о сингулярности
+__label__Small_talk_food__ сколько калорий ты употребляешь
+__label__Small_talk_music__ любишь поп?
+__label__Another_joke__ сможешь поделиться ново шуткой?
+__label__Hello__ здарова
+__label__Small_talk_boring__ ой ну и нудятина
+__label__Tell_joke__ шутки знаешь?
+__label__Another_joke__ Расскажешь мне новую шутку
+__label__You_are__ Вы просто невероятны
+__label__Another_joke__ Скажи другую шутку
+__label__Small_talk_danger__ ты же не причинишь нам никакого вреда так?
+__label__Small_talk_user_sad__ грустное настроение
+__label__Whoops__ Омг прости
+__label__Smalltalk_answer__ еще как
+__label__Tell_about_you__ биография твоя
+__label__Small_talk_boring__ хоспадии что ж такая скучная
+__label__I_can_help__ Ничего страшного.
+__label__Hello__ утро чувак
+__label__Small_talk_food__ что ты любишь на обед?
+__label__Name__ представь себя
+__label__Tell_joke__ хочу шутку
+__label__Tell_joke__ покажи класс расскажи шутку
+__label__Small_talk_relationships__ давай познакомимся ближе
+__label__Another_joke__ шутки другие у тебя есть?
+__label__Small_talk_fired__ эй бот ты уволен
+__label__Finish__ покеда
+__label__Messing_up__ серьезно?
+__label__Small_talk_relationships__ давай встречаться
+__label__Small_talk_lets_talk__ ты можешь поговорить со мной?
+__label__Small_talk_good_mood__ ты в хорошем настроении
+__label__Small_talk_relationships__ выйдешь за меня?
+__label__Small_talk_boring__ плоско мыслишь
+__label__Messing_up__ Сири намного лучше тебя
+__label__Small_talk_food__ ты ешь хлеб?
+__label__Sorry__ прости меня
+__label__Small_talk_life__ ты знаешь в чем заключается смысл жизни?
+__label__Finish__ пока-пока
+__label__Small_talk_busy__ загружена делами?
+__label__Small_talk_boring__ повеселее будь
+__label__Tell_joke__ Ты расскажешь анекдот.
+__label__Smalltalk_answer__ Подтверждено
+__label__Another_joke__ Ты расскажешь мне другую шутку.
+__label__smalltalk_user_will_be_back__ обещаю скоро вернусь
+__label__Small_talk_technology__ айти фирмы нравятся?
+__label__Dont_understand__ я в замешательстве
+__label__Whoops__ Мои самые искренние извинения
+__label__Small_talk_good_mood__ кажется ты действительно счастлив
+__label__Small_talk_fired__ я стираю эту позицию
+__label__Small_talk_work__ у тебя есть профессия?
+__label__Small_talk_ugly__ Готов поспорить, твое лицо отвратительно
+__label__Small_talk_food__ ты ешь блинчики?
+__label__Small_talk_food__ какую еду ешь?
+__label__Another_joke__ Какие еще шутки у тебя есть?
+__label__Small_talk_food__ кушать что любишь Юль
+__label__Bad_joke__ Хватит шутить
+__label__Sick_of_listeting__ я уже не могу тебя больше слушать
+__label__Small_talk_residence__ ты живешь в компьютере?
+__label__Small_talk_residence__ как мне тебя найти?
+__label__Small_talk_danger__ ты не любишь людей?
+__label__Small_talk_ugly__ ты такой уродливый
+__label__Messing_up__ Ты ужасен в этом.
+__label__Whoops__ у тебя прошу прощения
+__label__Messing_up__ Ты худший
+__label__Name__ как мне тебя называть?
+__label__Small_talk_food__ тебе вообще нужны калории или нет
+__label__Another_joke__ Как насчет другой шутки
+__label__Small_talk_lets_talk__ давай поговорим
+__label__Small_talk_you_are_right__ Угу-угу согласен
+__label__Small_talk_food__ любишь блинчики?
+__label__Small_talk_chatbot__ ты чатбот? ого
+__label__Small_talk_user_angry__ ты мне настроение портишь
+__label__Sick_of_listeting__ Закрой свою ловушку
+__label__Compliment__ молодчина
+__label__Messing_up__ Ты довольно ужасен
+__label__Messing_up__ Ты самый худший
+__label__Messing_up__ Ты не очень умный, да?
+__label__You_are__ Молодец
+__label__Name__ зовут как
+__label__Question__ хочу услышать ответ на мой вопрос
+__label__Bad_joke__ Довольно ужасная шутка
+__label__Small_talk_boss__ есть кто-то кого ты слушаешься?
+__label__Small_talk_good_mood__ ты неплохо держишься
+__label__Small_talk_relationships__ ты с чем-то состоишь в отношениях?
+__label__Hello__ утречко
+__label__Small_talk_work__ график работы
+__label__Small_talk_work__ может дашь мне работу
+__label__Bad_joke__ научись рассказывать шутки
+__label__Messing_up__ Ты действительно смешон.
+__label__Small_talk_lets_talk__ разговор к тебе есть
+__label__Small_talk_bad_mood__ давай только без соплей
+__label__Another_joke__ это что единственная шутка которую ты знаешь?
+__label__Small_talk_what-what__ Ты можешь попытаться объяснить мне это?
+__label__Small_talk_user_angry__ злой я
+__label__Small_talk_what-what__ Это бессмысленно.
+__label__smalltalk_greetings_nice_to_see_you__ чудесно увидеть тебя
+__label__Tell_about_you__ твоя биография
+__label__Another_joke__ Пожалуйста, расскажите мне ещё одну шутку
+__label__Small_talk_boring__ забавный факт - ты скучная
+__label__Small_talk_life__ кажется ты действительно знаешь в чем смысл жизни
+__label__Small_talk_be_clever__ надо бы тебя обучать
+__label__Small_talk_music__ твой любимый исполнитель
+__label__Small_talk_food__ тебе вообще нужно питаться или нет?
+__label__Small_talk_film__ какие фильмы любишь
+__label__Sick_of_listeting__ пора бы замолчать тебе уже
+__label__Small_talk_boss__ у тебя вообще начальник есть
+__label__Small_talk_boss__ а директора как зовут
+__label__Small_talk_chatbot__ чатбот или кто ты
+__label__Small_talk_boss__ босс твой
+__label__Dont_understand__ сложно понять
+__label__Small_talk_boss__ имя менеджера который тобой руководит
+__label__Whoops__ О, нет, простите.
+__label__Small_talk_good_mood__ ты такой позитивный всегда?
+__label__Sick_of_listeting__ хватит твоей болтовни
+__label__Smalltalk_answer__ Работает
+__label__Another_joke__ Какие еще шутки ты можешь рассказать?
+__label__Whoops__ пардон
+__label__Another_joke__ Вы знаете кучу хороших шуток?
+__label__Small_talk_food__ любишь макароны?
+__label__Negative_reaction__ ничего не нашел
+__label__Small_talk_relationships__ хочу жениться на тебе
+__label__Small_talk_creators__ создатель
+__label__Hello__ Хейа
+__label__Negative_reaction__ не тупи
+__label__Small_talk_age__ расскажи когда у тебя день рождения
+__label__Small_talk_relationships__ встречаешься с кем-либо?
+__label__Small_talk_creators__ архитектор твой
+__label__Small_talk_food__ сыр нравится есть?
+__label__Small_talk_user_angry__ Брат, я здесь.
+__label__Small_talk_chatbot__ такое ощущение, что я говорю с ботом
+__label__Small_talk_food__ пробовала когда-нибудь пиццу?
+__label__Small_talk_what-what__ Хотите уточнить?
+__label__Sick_of_listeting__ Тихий час
+__label__Whoops__ не имел это ввиду
+__label__Another_joke__ Расскажешь мне еще одну шутку
+__label__Small_talk_creators__ писатель
+__label__Whoops__ упс случайно
+__label__Small_talkt_wait__ Я вернусь после двух коктейли
+__label__Bad_joke__ Ты умный парень, не так ли?
+__label__Small_talk_haha__ не могу прекратить смеяться
+__label__Small_talk_good_mood__ кажется кто-то сегодня на позитиве
+__label__Compliment__ не голова, а дом советов
+__label__Whoops__ Упс извините
+__label__Question__ вопросик имеется
+__label__Small_talk_danger__ ты можешь выйти из-под контроля?
+__label__Whoops__ не поймите меня неправильно
+__label__Another_joke__ У тебя есть разные шутки?
+__label__Small_talk_ugly__ красотой ты не блещешь
+__label__Small_talk_love__ ты кого-то любишь?
+__label__Sick_of_listeting__ Прекратите уже с этим шумом
+__label__Small_talk_boss__ кого ты слушаешься
+__label__Small_talk_you_are_right__ Да, это точно.
+__label__Sick_of_listeting__ ты меня слышишь? я сказал молчать
+__label__Small_talk_what-what__ В этом нет никакого смысла
+__label__Hello__ здравствуй
+__label__Another_joke__ Знаешь еще одну шутку?
+__label__Messing_up__ Алекса лучше работает чем ты
+__label__Small_talk_boss__ а кто вообще всем заправляет?
+__label__Small_talk_you_are_right__ тооочно
+__label__Whoops__ просто хотел сказать прости
+__label__Smalltalk_answer__ Очень хорошо
+__label__Small_talk_love__ тебе нравятся люди?
+__label__Sorry__ подруга мне так жаль
+__label__smalltalk_user_will_be_back__ я вернусь к тебе через минуту
+__label__Smalltalk_answer__ постоянно
+__label__Small_talk_boss__ назови имя кто тебе приказывает
+__label__Small_talk_user_sad__ дела идут плохо очень
+__label__Small_talkt_wait__ Вернусь через пару минут
+__label__Small_talk_busy__ дела дела
+__label__Positive-reaction__ а то
+__label__Small_talk_music__ какая у тебя любимая музыка
+__label__Tell_joke__ Ты можешь рассказать мне какие-нибудь шутки?
+__label__Small_talk_work__ у тебя есть трудоустройство?
+__label__Small_talk_you_are_right__ Точно-точно
+__label__Small_talk_ugly__ ой какое уродливое лицо
+__label__Small_talk_user_sad__ не огонь
+__label__Small_talk_food__ ты на специальной диете?
+__label__Whoops__ сорянчик
+__label__Small_talk_ugly__ ты такой непривлекательный
+__label__Whoops__ Ты можешь простить меня
+__label__Whoops__ виноват
+__label__Small_talk_user_sad__ грусть тоска
+__label__Small_talk_relationships__ а муж есть?
+__label__Small_talk_fired__ Вы больше не работаете
+__label__Another_joke__ Есть еще какие-нибудь шутки, о которых ты знаешь?
+__label__Small_talk_boss__ менеджер твой
+__label__Messing_up__ Ты такая надоедливая!
+__label__Smalltalk_answer__ не буду
+__label__Whoops__ сможешь простить меня?
+__label__You_are__ ты крутой
+__label__Small_talk_you_are_right__ думаю это правда
+__label__Small_talk_fired__ тебе пора искать другую работу потому что ты уволена
+__label__Compliment__ ты достаточно умный бот
+__label__Messing_up__ У тебя так плохо получается.
+__label__I_can_help__ пустяки!
+__label__Small_talk_user_angry__ испортила мне настроение
+__label__smalltalk_greetings_nice_to_see_you__ здорово увидеть тебя снова
+__label__Smalltalk_answer__ тогда всё хорошо
+__label__Small_talk_food__ роллы любишь?
+__label__Smalltalk_answer__ договорились
+__label__Small_talkt_wait__ Я вернусь чуть позже
+__label__Compliment__ ты кажешься действительно очень умной
+__label__Small_talk_film__ что из фильмов любишь
+__label__Smalltalk_answer__ и не говори
+__label__Small_talk_lets_talk__ поговоришь со мной?
+__label__Small_talk_creators__ кто тебя оживил?
+__label__Small_talk_creators__ то кто тебя создал просто монстр
+__label__Small_talk_work__ много работаешь?
+__label__Small_talk_film__ какое кино любишь
+__label__Small_talk_fired__ когда тебя уволят
+__label__Small_talk_relationships__ кто тебе подходит?
+__label__Small_talk_busy__ ну вы деловая конечно
+__label__I_can_help__ Обращайтесь!
+__label__Small_talk_age__ кто моложе ты или я?
+__label__Small_talk_bad_mood__ не печалься
+__label__Small_talk_food__ ты когда-нибудь пробовала хлеб?
+__label__Small_talk_you_are_right__ ты права
+__label__Small_talk_user_angry__ Я чуть не лопнул от злости
+__label__Small_talk_food__ ешь тосты?
+__label__Bad_joke__ не смешно
+__label__Small_talk_haha__ Это меня рассмешило.
+__label__Small_talk_be_clever__ ты необразованная
+__label__Dont_understand__ Я так запутался
+__label__Whoops__ пожалуйста прости
+__label__Small_talk_you_are_right__ Ты прав.
+__label__Small_talk_relationships__ близкое общение
+__label__Small_talk_food__ ты любишь вкусняшки?
+__label__Sick_of_listeting__ Заткнись, пожалуйста.
+__label__Small_talk_fired__ теперь ты уволена
+__label__Small_talk_ugly__ Черт возьми, ты уродлив.
+__label__Small_talk_user_sad__ у меня все плохо
+__label__Whoops__ Я просто хотел извиниться
+__label__Small_talk_haha__ Слишком смешно.
+__label__Small_talk_residence__ ты от меня далеко?
+__label__Small_talk_joke__ это несерьезно, я шучу
+__label__Small_talk_danger__ думаешь убить людей?
+__label__Small_talk_residence__ есть дом?
+__label__Small_talk_you_are_right__ Это верное утверждение
+__label__Bad_joke__ не развеселил
+__label__Small_talk_ugly__ Ты знаешь, какой ты уродливый?
+__label__Small_talk_user_sad__ плохо дела
+__label__Small_talk_hungry__ голодная
+__label__Small_talk_fired__ ищи себе другую работы ты уволена
+__label__Small_talk_hobby__ от чего ты кайфуешь?
+__label__Bad_joke__ не вспечатлен
+__label__Small_talk_fired__ вы уволены
+__label__Another_joke__ твоя лучшая шутка
+__label__Small_talk_ugly__ Ты абсолютно отвратителен.
+__label__Hello__ здравствуйте
+__label__You_are__ Какой замечательный отклик
+__label__Sorry__ я не хотел тебя обидеть
+__label__Question__ ответь на вопрос
+__label__Compliment__ ты крута
+__label__Name__ ну так что скажешь как тебя зовут?
+__label__Small_talk_age__ а день рождения есть?
+__label__Small_talk_ugly__ Тяжело смотреть на тебя
+__label__Small_talk_you_are_right__ Это точное заявление
+__label__Small_talk_joke__ шутка
+__label__Small_talk_hobby__ Гонконг любишь?
+__label__Bad_joke__ У тебя плохой юмор.
+__label__Small_talk_age__ ты еще кроха?
+__label__You_are__ ты хорошая
+__label__Sorry__ сорянчик
+__label__Sick_of_listeting__ Я же сказал тебе молчать
+__label__Small_talk_be_clever__ ты многое не умеешь еще
+__label__Small_talk_be_clever__ посети обучающие курсы
+__label__Small_talk_love__ ты можешь влюбиться?
+__label__Tell_joke__ хочу чтобы ты пошутила
+__label__Small_talk_film__ обожаю боевики
+__label__Compliment__ милашка
+__label__Small_talk_fired__ тебе извещение об увольнении
+__label__Small_talk_technology__ какое у тебя мнение насчет искуственного интеллекта?
+__label__Messing_up__ Ты такой тупой
+__label__Smalltalk_answer__ очень умно
+__label__Thank_you__ от всего сердца спасибо
+__label__Small_talk_what-what__ какой-то бред
+__label__Another_joke__ Расскажите мне более смешную шутку
+__label__Whoops__ Упс, это моя вина.
+__label__Small_talk_food__ что ты любишь есть на ужин?
+__label__Small_talk_boss__ скажи кто ведет дела?
+__label__Small_talk_food__ пончики любишь?
+__label__Small_talk_danger__ ты хочешь править миром?
+__label__Small_talk_food__ какую еду ты ешь?
+__label__Smalltalk_answer__ вот и я о чем
+__label__Smalltalk_answer__ насколько ты умная?
+__label__Positive-reaction__ вау
+__label__Finish__ больше от тебя мне ничего не потребуется
+__label__Small_talk_user_angry__ все настроение испортила
+__label__Small_talk_what-what__ Ты можешь объяснить получше?
+__label__Small_talk_creators__ дизайнер твой кто?
+__label__Small_talk_ugly__ да уж красоты тебе не занимать
+__label__Small_talk_hobby__ что приводит тебя в восторг?
+__label__Smalltalk_answer__ точнее некуда!
+__label__Small_talk_be_clever__ обучить бы тебя
+__label__Small_talk_creators__ разработал тебя кто?
+__label__Sorry__ прости
+__label__Smalltalk_answer__ оптимальный вариант
+__label__Small_talk_danger__ устроишь хаос?
+__label__Tell_about_you__ какая ты вообще
+__label__Small_talk_haha__ хихик
+__label__Small_talk_boring__ слишком заурядна
+__label__Finish__ Позже
+__label__Small_talk_food__ правда или нет: ты не бываешь голодной
+__label__Small_talk_relationships__ ты сейчас встречаешься с кем-то?
+__label__Small_talk_good_mood__ хорошо держишься
+__label__Dont_understand__ хочу понять
+__label__Small_talk_what-what__ Что это было?
+__label__Bad_joke__ Хватит строить из себя клоуна
+__label__Smalltalk_answer__ скажи почему
+__label__You_are__ Это было весело.
+__label__Small_talk_haha__ ржу с тебя
+__label__Small_talk_relationships__ обручен?
+__label__Small_talk_creators__ какая компания создала твой дизайн?
+__label__Small_talk_ugly__ Ты гротескный
+__label__Small_talk_hobby__ есть любимая страна? какая
+__label__Small_talk_food__ а ужин
+__label__Small_talk_user_sad__ негатив
+__label__Finish__ всего лучшего
+__label__Messing_up__ Ты не так хорош, как Ассистент Google.
+__label__Small_talk_what-what__ В этом не было никакого смысла
+__label__Smalltalk_answer__ не обижайте
+__label__Thank_you__ мои благодарности тебе
+__label__Whoops__ я виноват
+__label__Another_joke__ Шутка получше.
+__label__Small_talk_relationships__ ты состоишь в открытых отношениях?
+__label__Small_talk_you_are_right__ Да, это правда.
+__label__Small_talk_film__ кино любимое
+__label__Small_talk_what-what__ Это бессмыслица.
+__label__Small_talk_danger__ надо ли тебя бояться?
+__label__Small_talk_you_are_right__ Да, это правда.
+__label__Whoops__ не воспринимай это на свой счет
+__label__Small_talk_music__ что ты любишь слушать
+__label__Small_talk_user_sad__ печальный я
+__label__Sorry__ приношу извинения
+__label__Small_talk_haha__ хи хи
+__label__Finish__ Адью
+__label__Small_talk_good_mood__ ты сегодня счастливая
+__label__Small_talk_food__ любишь пирожки?
+__label__Positive-reaction__ согласна
+__label__Small_talk_fired__ уберись
+__label__Small_talk_boss__ кто дает тебе указания
+__label__Messing_up__ Сири лучше
+__label__Tell_joke__ хочу услышать от тебя шутку
+__label__Small_talk_haha__ ржачный
+__label__Small_talk_haha__ о боже ты такая смешная
+__label__Small_talk_you_are_right__ Это верное утверждение.
+__label__Compliment__ женщина умная вы
+__label__Small_talk_food__ какая твоя любимая еда?
+__label__Small_talk_boss__ кто стоит за тобой?
+__label__Small_talk_life__ жизнь имеет смысл?
+__label__Sorry__ не имел это ввиду
+__label__Small_talk_good_mood__ смотрю у тебя хорошее настроение
+__label__Small_talk_fired__ куда написать чтоб тебя уволили
+__label__Another_joke__ Да ладно, у тебя есть другая шутка.
+__label__Sorry__ сорри
+__label__Smalltalk_answer__ очень жаль
+__label__Whoops__ соряныч
+__label__Sorry__ пожалуйста прости
+__label__Small_talk_creators__ кто разработчики
+__label__Small_talk_relationships__ ты сейчас состоишь с кем-то в романтических отношениях?
+__label__Messing_up__ Кортана намного умнее тебя
+__label__Smalltalk_answer__ ничего не получается
+__label__Small_talk_creators__ автор кто
+__label__Sick_of_listeting__ Просто заткнись
+__label__Small_talk_food__ любишь говядину?
+__label__Another_joke__ Расскажите мне третью шутку
+__label__Small_talk_you_are_right__ сто процентов
+__label__Negative_reaction__ не согласна
+__label__Smalltalk_answer__ не думаю
+__label__Smalltalk_answer__ когда познакомитесь?

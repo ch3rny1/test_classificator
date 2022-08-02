@@ -6,6 +6,10 @@ app = Flask(__name__)
 def ping():
     return 'pong', 200
 
+@app.route('/', methods=['GET', 'POST'])
+def index():
+   return 200 
+
 @app.route('/classify', methods=['GET', 'POST'])
 def get_class():
     """
